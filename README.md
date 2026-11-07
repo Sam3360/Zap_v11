@@ -1,7 +1,6 @@
-# [Zap](https://Sam3360.github.io/Zap/UserPolicyZap.html)  ⚡ [Latest version]
+# [Zap](https://Sam3360.github.io/Zap/UserPolicyZap.html)  ⚡ [v11]
 
-> All new versions are merged and available
->> Latest: v9
+> Merge Status: Pending ⚠️
 
 ![Zap Banner](ZapBanner.png)
 
