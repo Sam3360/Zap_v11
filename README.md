@@ -1,6 +1,6 @@
 # [Zap](https://Sam3360.github.io/Zap/UserPolicyZap.html)  ⚡ [v11]
 
-> Merge Status: Pending ⚠️
+> Merge Status: COMPLETE ✅
 
 ![Zap Banner](ZapBanner.png)
 
